@@ -26,9 +26,9 @@ An AI-powered resume screening system built using LangChain and Groq, with full 
 - PyPDF2
 
 ---
-
 ## 📂 Project Structure
-'''
+
+```
 ai-resume-screening/
 │
 ├── prompts/
@@ -50,7 +50,7 @@ ai-resume-screening/
 ├── main.py
 ├── requirements.txt
 └── README.md
-'''
+```
 ---
 
 ## ⚙️ Setup Instructions
